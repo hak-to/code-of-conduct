@@ -43,6 +43,8 @@ Attribution
 This Code of Conduct is adapted from:
 
 [Contributor Covenant, version 1.4](http://contributor-covenant.org/version/1/4)
+
 [Write/Speak/Code](http://www.writespeakcode.com/code-of-conduct.html)
+
 [Geek Feminism](https://geekfeminism.org/about/code-of-conduct)
 
